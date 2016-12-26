@@ -1,6 +1,6 @@
-# practice
+# Document
 
-> A Vue.js project
+> A Vue.js project for study.
 
 ## Build Setup
 

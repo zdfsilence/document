@@ -1,9 +1,15 @@
+<style>
+    .main{
+        position: absolute;
+        right: 0;
+        min-height: 100%;
+        left: 300px;
+        width: auto;
+    }
+</style>
 <template>
-    <div class="">
-        <h2>
-            {{msg}}
-        </h2>
-        <child></child>
+    <div class="main">
+
     </div>
 
 </template>
@@ -21,7 +27,3 @@ export default {
     }
 }
 </script>
-
-<style>
-
-</style>
